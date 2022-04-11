@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="lib/css/popup.css"/>
+        <script type="text/javascript" src="/lib/js/jquery-3.6.0.min.js"></script>
+    </head>
+    <body>
+        <div class="heading">
+            <img src="/images/icon.png" id="logo"/>
+        </div>
+        <div id="messaging"></div>
+        <hr/>
+        <div id="main">
+            <table>
+                <tbody>
+                    <tr>
+                        <td><span class="menu-item-icon"> +</span></td>
+                        <td><span class="menu-item-text"><a id="addAction">Add Title</a></span></td>
+                    </tr>
+                    <tr>
+                        <td><span class="menu-item-icon">&#9783;</span></td>
+                        <td><span class="menu-item-text"><a id="viewAction">View Title</a></span></td>
+                    </tr>
+                    <tr>
+                        <td><span class="menu-item-icon"> -</span></td>
+                        <td><span class="menu-item-text"><a id="updateAction">Update Title</a></span></td>
+                    </tr>
+                    <tr>
+                        <td><span class="menu-item-icon"> X</span></td>
+                        <td><span class="menu-item-text"><a id="closeAdsAction">Close Ads</a></span></td>
+                    </tr>
+                </tbody>
+            </table>
+            <hr/>
+            <div>
+                <span class="menu-item-icon">&#9881;</span>
+                <span class="menu-item-text"><a id="optionAction">Options</a></span>
+            </div>
+        </div>
+        <div id="viewTitles" style="display: none;">
+            <table>
+                <tbody>
+                <tr>
+                    <td><span class="menu-item-icon"><a class="backToMain">&#171;</a></span></td>
+                    <td><span class="menu-item-text"><h3>View Titles</h3></span></td>
+                </tr>
+                </tbody>
+            </table>
+            <hr/>
+            <div id="titles"></div>
+        </div>
+        <div id="addView" style="display: none;">
+            <table>
+                <tbody>
+                <tr>
+                    <td><span class="menu-item-icon"><a class="backToMain">&#171;</a></span></td>
+                    <td><span class="menu-item-text"><h3>Add Title</h3></span></td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <input type="text" id="titleName" placeholder="Name"/><br/>
+                        <input type="text" id="titleURL" placeholder="URL"/><br/>
+                        <input type="button" id="add" value="Add Current Title">
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+        <div id="optionsView" style="display: none;">
+            <table>
+                <tbody>
+                <tr>
+                    <td><span class="menu-item-icon"><a class="backToMain">&#171;</a></span></td>
+                    <td><span class="menu-item-text"><h3>Options</h3></span></td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <input type="text" id="choseLocation" placeholder="Bookmark Location"/><br/>
+                        <input type="button" id="updateLocation" value="Choose Bookmark Location"/>
+                        <hr/>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <label for="autoUpdate" style="word-wrap:break-word">
+                            <span class="menu-item-text">Auto Update?</span>
+                            <input type="checkbox" id="autoUpdate"/>
+                        </label>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+
+        </div>
+        <hr/>
+        <script src="lib/js/popup.js"></script>
+    </body>
+</html>

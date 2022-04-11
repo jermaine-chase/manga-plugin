@@ -1,0 +1,78 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000"
+     height="1000">
+    <defs/>
+    <g>
+        <path fill="none" stroke="black" paint-order="fill stroke markers"
+              d=" M 950 500 A 450 450 0 1 1 949.9997750000188 499.55000007499973" stroke-miterlimit="10"
+              stroke-width="3.75" stroke-dasharray=""/>
+        <path fill="none" stroke="black" paint-order="fill stroke markers"
+              d=" M 687.5 725 A 187.5 187.5 0 1 1 687.4999062500078 724.8125000312499" stroke-miterlimit="10"
+              stroke-width="3.75" stroke-dasharray=""/>
+        <path fill="none" stroke="black" paint-order="fill stroke markers"
+              d=" M 584.375 823.125 A 84.375 84.375 0 1 1 584.3749578125035 823.0406250140625" stroke-miterlimit="10"
+              stroke-width="3.75" stroke-dasharray=""/>
+        <path fill="none" stroke="black" paint-order="fill stroke markers"
+              d=" M 521.09375 928.59375 A 21.09375 21.09375 0 1 1 521.0937394531259 928.5726562535156"
+              stroke-miterlimit="10" stroke-width="3.75" stroke-dasharray=""/>
+        <path fill="none" stroke="black" paint-order="fill stroke markers"
+              d=" M 584.375 537.5 A 84.375 84.375 0 1 1 584.3749578125035 537.4156250140625" stroke-miterlimit="10"
+              stroke-width="3.75" stroke-dasharray=""/>
+        <path fill="none" stroke="black" paint-order="fill stroke markers"
+              d=" M 521.09375 495.3125 A 21.09375 21.09375 0 1 1 521.0937394531259 495.2914062535156"
+              stroke-miterlimit="10" stroke-width="3.75" stroke-dasharray=""/>
+        <path fill="none" stroke="black" paint-order="fill stroke markers"
+              d=" M 433.70613204139687 450.3892045454545 A 187.5 187.5 0 0 1 324.6107954545455 341.29386795860313"
+              stroke-miterlimit="10" stroke-width="3.75" stroke-dasharray=""/>
+        <path fill="none" stroke="black" paint-order="fill stroke markers"
+              d=" M 324.6107954545455 208.7061320413968 A 187.5 187.5 0 0 1 487.4340308387277 87.92155009451795"
+              stroke-miterlimit="10" stroke-width="3.75" stroke-dasharray=""/>
+        <path fill="none" stroke="black" paint-order="fill stroke markers"
+              d=" M 512.5659691612723 87.92155009451795 A 187.5 187.5 0 0 1 566.2938679586032 450.3892045454545"
+              stroke-miterlimit="10" stroke-width="3.75" stroke-dasharray=""/>
+        <path fill="none" stroke="black" paint-order="fill stroke markers"
+              d=" M 433.70613204139687 450.38920454545456 A 73.125 73.125 0 0 1 566.2938679586032 450.38920454545456"
+              stroke-miterlimit="10" stroke-width="3.75" stroke-dasharray=""/>
+        <path fill="#000000" stroke="none" paint-order="stroke fill markers"
+              d=" M 476.66337888843077 431.14656265028054 A 4.875 4.875 0 1 1 476.66337645093097 431.14168765109304"/>
+        <path fill="#000000" stroke="none" paint-order="stroke fill markers"
+              d=" M 504.875 423.75 A 4.875 4.875 0 1 1 504.8749975625002 423.7451250008125"/>
+        <path fill="#000000" stroke="none" paint-order="stroke fill markers"
+              d=" M 533.0866211115692 431.14656265028054 A 4.875 4.875 0 1 1 533.0866186740694 431.14168765109304"/>
+        <path fill="none" stroke="black" paint-order="fill stroke markers"
+              d=" M 646.6450214724777 407.58252147247765 A 14.0625 14.0625 0 1 1 646.6450144412282 407.5684589748214"
+              stroke-miterlimit="10" stroke-width="3.75" stroke-dasharray=""/>
+        <path fill="none" stroke="black" paint-order="fill stroke markers"
+              d=" M 720.625 275 A 14.0625 14.0625 0 1 1 720.6249929687506 274.98593750234375" stroke-miterlimit="10"
+              stroke-width="3.75" stroke-dasharray=""/>
+        <path fill="none" stroke="black" paint-order="fill stroke markers"
+              d=" M 512.5659691612723 87.92155009451795 A 56.25 56.25 0 1 1 487.4340308387277 87.92155009451795"
+              stroke-miterlimit="10" stroke-width="3.75" stroke-dasharray=""/>
+        <path fill="#000000" stroke="none" paint-order="stroke fill markers"
+              d=" M 529.9962732497081 174.6766699690635 A 4.875 4.875 0 1 1 529.9962708122083 174.671794969876"/>
+        <path fill="#000000" stroke="none" paint-order="stroke fill markers"
+              d=" M 504.875 183.375 A 4.875 4.875 0 1 1 504.8749975625002 183.3701250008125"/>
+        <path fill="#000000" stroke="none" paint-order="stroke fill markers"
+              d=" M 479.75372675029195 174.6766699690635 A 4.875 4.875 0 1 1 479.75372431279214 174.671794969876"/>
+        <path fill="none" stroke="black" paint-order="fill stroke markers"
+              d=" M 514.0625 142.75 A 14.0625 14.0625 0 1 1 514.0624929687506 142.73593750234375" stroke-miterlimit="10"
+              stroke-width="3.75" stroke-dasharray=""/>
+        <path fill="none" stroke="black" paint-order="fill stroke markers"
+              d=" M 324.61079545454544 208.70613204139687 A 73.125 73.125 0 0 1 324.61079545454544 341.29386795860313"
+              stroke-miterlimit="10" stroke-width="3.75" stroke-dasharray=""/>
+        <path fill="#000000" stroke="none" paint-order="stroke fill markers"
+              d=" M 348.72843734971946 246.78837888843077 A 4.875 4.875 0 1 1 348.72843491221965 246.78350388924326"/>
+        <path fill="#000000" stroke="none" paint-order="stroke fill markers"
+              d=" M 356.125 275 A 4.875 4.875 0 1 1 356.1249975625002 274.9951250008125"/>
+        <path fill="#000000" stroke="none" paint-order="stroke fill markers"
+              d=" M 348.72843734971946 303.21162111156923 A 4.875 4.875 0 1 1 348.72843491221965 303.2067461123817"/>
+        <path fill="none" stroke="black" paint-order="fill stroke markers"
+              d=" M 487.80369035078206 739.6361345391472 L 487.80369035078206 620.9888654608528" stroke-miterlimit="10"
+              stroke-width="3.75" stroke-dasharray=""/>
+        <path fill="none" stroke="black" paint-order="fill stroke markers"
+              d=" M 469.4314133513023 744.482122793599 L 469.4314133513023 616.142877206401" stroke-miterlimit="10"
+              stroke-width="3.75" stroke-dasharray=""/>
+        <path fill="none" stroke="black" paint-order="fill stroke markers"
+              d=" M 526.9865573243503 743.1821057017601 L 526.9865573243503 617.4428942982399" stroke-miterlimit="10"
+              stroke-width="3.75" stroke-dasharray=""/>
+    </g>
+</svg>

@@ -1,0 +1,64 @@
+.heading {
+    text-align: center;
+}
+
+#logo {
+    height: 75vw;
+    width: 75vw;
+}
+
+.options {
+    text-align: left;
+}
+
+h1 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+body {
+    font-family: arial, Verdana, sans-serif;
+    font-size: 12px;
+    width: 200px;
+    overflow: visible;
+    margin: 0;
+    padding: 0;
+    background-color: #EEEEEE;
+}
+
+[type="checkbox"]
+{
+    vertical-align:middle;
+}
+
+[type="text"],[type="button"] {
+    width: 95vw;
+    margin: 5px;
+}
+
+[type="text"] {
+    font-size: 10px;
+}
+
+.menu-item-text {
+    display: inline-block;
+    height: 26px;
+    line-height: 26px;
+    padding-left: 26px;
+    background-position: left center;
+    background-repeat: no-repeat;
+}
+
+.menu-item-icon {
+    font-size: 20px;
+    font-weight: bold;
+    height: 26px;
+    line-height: 26px;
+    padding-left: 26px;
+    background-position: left center;
+    background-repeat: no-repeat;
+}
+
+a:hover {
+    background-color: gold;
+}
